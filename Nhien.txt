@@ -1,7 +1,6 @@
 Hi My name is Nhien.
 
-<<<<<<< HEAD
 I like orange
-=======
 I like playing Go
->>>>>>> practice
+
+I'm hungry
